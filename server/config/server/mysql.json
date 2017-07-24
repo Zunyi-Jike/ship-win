@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"user": "root",
+	"passwd": "123456",
+	"db": "jike_ship_win",
+	"charset": "utf8mb4"
+}
